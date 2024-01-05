@@ -5,3 +5,5 @@ I am a student who really likes computer science and I am currently working in a
 
 I'm currently Learning: Golang, Java, React JS.
 I am interested in Web Design, Digital Marketing.
+
+<p align= "center"> <kbd> <img  src="https://discord.c99.nl/widget/theme-3/919272690500661268.png"width="360"> </kbd><br><br>
