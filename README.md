@@ -1,4 +1,17 @@
-<h2 align="left">eyup1337 -</h2>
+<h2 align="center">Hi, I'm Eyup</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyupware&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eyupware&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eyupware.eyupware&"  />
+</div>
 
 ###
 
@@ -38,8 +51,8 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1176140457756069990/1196564826273628221/a_c87d761a2bdbac3fe7bf2b6cbd43484f.gif?ex=65b816d5&is=65a5a1d5&hm=5c2cd61c45f21fce43c9136a278d6103afd0af3fe844bbe2c5a1ae69a1801e45&"  />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/eyupware/eyupware/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align= "center"> <kbd> <img  src="https://discord.c99.nl/widget/theme-3/919272690500661268.png"width="360"> </kbd><br><br>
